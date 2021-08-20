@@ -1,3 +1,6 @@
+<?php 
+include 'style.css';
+?>
 <div class="container">
   <header class="header">
     <h1 id="title" class="text-center">freeCodeCamp Survey Form</h1>
